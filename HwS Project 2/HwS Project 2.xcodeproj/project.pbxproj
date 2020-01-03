@@ -7,27 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		AEABF92123BEB9DE002255CF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEABF92023BEB9DE002255CF /* AppDelegate.swift */; };
-		AEABF92323BEB9DE002255CF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEABF92223BEB9DE002255CF /* SceneDelegate.swift */; };
-		AEABF92523BEB9DE002255CF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEABF92423BEB9DE002255CF /* ContentView.swift */; };
-		AEABF92723BEB9E0002255CF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AEABF92623BEB9E0002255CF /* Assets.xcassets */; };
-		AEABF92A23BEB9E0002255CF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AEABF92923BEB9E0002255CF /* Preview Assets.xcassets */; };
-		AEABF92D23BEB9E0002255CF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AEABF92B23BEB9E0002255CF /* LaunchScreen.storyboard */; };
+		AE70FD4123BF9AFB00422FFB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE70FD4023BF9AFB00422FFB /* AppDelegate.swift */; };
+		AE70FD4323BF9AFB00422FFB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE70FD4223BF9AFB00422FFB /* SceneDelegate.swift */; };
+		AE70FD4523BF9AFB00422FFB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE70FD4423BF9AFB00422FFB /* ViewController.swift */; };
+		AE70FD4823BF9AFB00422FFB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE70FD4623BF9AFB00422FFB /* Main.storyboard */; };
+		AE70FD4A23BF9AFD00422FFB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AE70FD4923BF9AFD00422FFB /* Assets.xcassets */; };
+		AE70FD4D23BF9AFD00422FFB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE70FD4B23BF9AFD00422FFB /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		AEABF91D23BEB9DE002255CF /* HwS Project 2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HwS Project 2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		AEABF92023BEB9DE002255CF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		AEABF92223BEB9DE002255CF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		AEABF92423BEB9DE002255CF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		AEABF92623BEB9E0002255CF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		AEABF92923BEB9E0002255CF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		AEABF92C23BEB9E0002255CF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		AEABF92E23BEB9E0002255CF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AE70FD3D23BF9AFB00422FFB /* HwS Project 2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HwS Project 2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AE70FD4023BF9AFB00422FFB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		AE70FD4223BF9AFB00422FFB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		AE70FD4423BF9AFB00422FFB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		AE70FD4723BF9AFB00422FFB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		AE70FD4923BF9AFD00422FFB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		AE70FD4C23BF9AFD00422FFB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		AE70FD4E23BF9AFD00422FFB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		AEABF91A23BEB9DE002255CF /* Frameworks */ = {
+		AE70FD3A23BF9AFB00422FFB /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,54 +37,46 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		AEABF91423BEB9DE002255CF = {
+		AE70FD3423BF9AFB00422FFB = {
 			isa = PBXGroup;
 			children = (
-				AEABF91F23BEB9DE002255CF /* HwS Project 2 */,
-				AEABF91E23BEB9DE002255CF /* Products */,
+				AE70FD3F23BF9AFB00422FFB /* HwS Project 2 */,
+				AE70FD3E23BF9AFB00422FFB /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		AEABF91E23BEB9DE002255CF /* Products */ = {
+		AE70FD3E23BF9AFB00422FFB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				AEABF91D23BEB9DE002255CF /* HwS Project 2.app */,
+				AE70FD3D23BF9AFB00422FFB /* HwS Project 2.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		AEABF91F23BEB9DE002255CF /* HwS Project 2 */ = {
+		AE70FD3F23BF9AFB00422FFB /* HwS Project 2 */ = {
 			isa = PBXGroup;
 			children = (
-				AEABF92023BEB9DE002255CF /* AppDelegate.swift */,
-				AEABF92223BEB9DE002255CF /* SceneDelegate.swift */,
-				AEABF92423BEB9DE002255CF /* ContentView.swift */,
-				AEABF92623BEB9E0002255CF /* Assets.xcassets */,
-				AEABF92B23BEB9E0002255CF /* LaunchScreen.storyboard */,
-				AEABF92E23BEB9E0002255CF /* Info.plist */,
-				AEABF92823BEB9E0002255CF /* Preview Content */,
+				AE70FD4023BF9AFB00422FFB /* AppDelegate.swift */,
+				AE70FD4223BF9AFB00422FFB /* SceneDelegate.swift */,
+				AE70FD4423BF9AFB00422FFB /* ViewController.swift */,
+				AE70FD4623BF9AFB00422FFB /* Main.storyboard */,
+				AE70FD4923BF9AFD00422FFB /* Assets.xcassets */,
+				AE70FD4B23BF9AFD00422FFB /* LaunchScreen.storyboard */,
+				AE70FD4E23BF9AFD00422FFB /* Info.plist */,
 			);
 			path = "HwS Project 2";
-			sourceTree = "<group>";
-		};
-		AEABF92823BEB9E0002255CF /* Preview Content */ = {
-			isa = PBXGroup;
-			children = (
-				AEABF92923BEB9E0002255CF /* Preview Assets.xcassets */,
-			);
-			path = "Preview Content";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		AEABF91C23BEB9DE002255CF /* HwS Project 2 */ = {
+		AE70FD3C23BF9AFB00422FFB /* HwS Project 2 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = AEABF93123BEB9E0002255CF /* Build configuration list for PBXNativeTarget "HwS Project 2" */;
+			buildConfigurationList = AE70FD5123BF9AFD00422FFB /* Build configuration list for PBXNativeTarget "HwS Project 2" */;
 			buildPhases = (
-				AEABF91923BEB9DE002255CF /* Sources */,
-				AEABF91A23BEB9DE002255CF /* Frameworks */,
-				AEABF91B23BEB9DE002255CF /* Resources */,
+				AE70FD3923BF9AFB00422FFB /* Sources */,
+				AE70FD3A23BF9AFB00422FFB /* Frameworks */,
+				AE70FD3B23BF9AFB00422FFB /* Resources */,
 			);
 			buildRules = (
 			);
@@ -92,25 +84,25 @@
 			);
 			name = "HwS Project 2";
 			productName = "HwS Project 2";
-			productReference = AEABF91D23BEB9DE002255CF /* HwS Project 2.app */;
+			productReference = AE70FD3D23BF9AFB00422FFB /* HwS Project 2.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		AEABF91523BEB9DE002255CF /* Project object */ = {
+		AE70FD3523BF9AFB00422FFB /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1130;
 				LastUpgradeCheck = 1130;
 				ORGANIZATIONNAME = "Heather Mason";
 				TargetAttributes = {
-					AEABF91C23BEB9DE002255CF = {
+					AE70FD3C23BF9AFB00422FFB = {
 						CreatedOnToolsVersion = 11.3;
 					};
 				};
 			};
-			buildConfigurationList = AEABF91823BEB9DE002255CF /* Build configuration list for PBXProject "HwS Project 2" */;
+			buildConfigurationList = AE70FD3823BF9AFB00422FFB /* Build configuration list for PBXProject "HwS Project 2" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -118,47 +110,55 @@
 				en,
 				Base,
 			);
-			mainGroup = AEABF91423BEB9DE002255CF;
-			productRefGroup = AEABF91E23BEB9DE002255CF /* Products */;
+			mainGroup = AE70FD3423BF9AFB00422FFB;
+			productRefGroup = AE70FD3E23BF9AFB00422FFB /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				AEABF91C23BEB9DE002255CF /* HwS Project 2 */,
+				AE70FD3C23BF9AFB00422FFB /* HwS Project 2 */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		AEABF91B23BEB9DE002255CF /* Resources */ = {
+		AE70FD3B23BF9AFB00422FFB /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AEABF92D23BEB9E0002255CF /* LaunchScreen.storyboard in Resources */,
-				AEABF92A23BEB9E0002255CF /* Preview Assets.xcassets in Resources */,
-				AEABF92723BEB9E0002255CF /* Assets.xcassets in Resources */,
+				AE70FD4D23BF9AFD00422FFB /* LaunchScreen.storyboard in Resources */,
+				AE70FD4A23BF9AFD00422FFB /* Assets.xcassets in Resources */,
+				AE70FD4823BF9AFB00422FFB /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		AEABF91923BEB9DE002255CF /* Sources */ = {
+		AE70FD3923BF9AFB00422FFB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AEABF92123BEB9DE002255CF /* AppDelegate.swift in Sources */,
-				AEABF92323BEB9DE002255CF /* SceneDelegate.swift in Sources */,
-				AEABF92523BEB9DE002255CF /* ContentView.swift in Sources */,
+				AE70FD4523BF9AFB00422FFB /* ViewController.swift in Sources */,
+				AE70FD4123BF9AFB00422FFB /* AppDelegate.swift in Sources */,
+				AE70FD4323BF9AFB00422FFB /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		AEABF92B23BEB9E0002255CF /* LaunchScreen.storyboard */ = {
+		AE70FD4623BF9AFB00422FFB /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				AEABF92C23BEB9E0002255CF /* Base */,
+				AE70FD4723BF9AFB00422FFB /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		AE70FD4B23BF9AFD00422FFB /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				AE70FD4C23BF9AFD00422FFB /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -166,7 +166,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		AEABF92F23BEB9E0002255CF /* Debug */ = {
+		AE70FD4F23BF9AFD00422FFB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -226,7 +226,7 @@
 			};
 			name = Debug;
 		};
-		AEABF93023BEB9E0002255CF /* Release */ = {
+		AE70FD5023BF9AFD00422FFB /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -280,14 +280,12 @@
 			};
 			name = Release;
 		};
-		AEABF93223BEB9E0002255CF /* Debug */ = {
+		AE70FD5223BF9AFD00422FFB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"HwS Project 2/Preview Content\"";
 				DEVELOPMENT_TEAM = 766MQFJY2G;
-				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "HwS Project 2/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -300,14 +298,12 @@
 			};
 			name = Debug;
 		};
-		AEABF93323BEB9E0002255CF /* Release */ = {
+		AE70FD5323BF9AFD00422FFB /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"HwS Project 2/Preview Content\"";
 				DEVELOPMENT_TEAM = 766MQFJY2G;
-				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "HwS Project 2/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -323,25 +319,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		AEABF91823BEB9DE002255CF /* Build configuration list for PBXProject "HwS Project 2" */ = {
+		AE70FD3823BF9AFB00422FFB /* Build configuration list for PBXProject "HwS Project 2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				AEABF92F23BEB9E0002255CF /* Debug */,
-				AEABF93023BEB9E0002255CF /* Release */,
+				AE70FD4F23BF9AFD00422FFB /* Debug */,
+				AE70FD5023BF9AFD00422FFB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		AEABF93123BEB9E0002255CF /* Build configuration list for PBXNativeTarget "HwS Project 2" */ = {
+		AE70FD5123BF9AFD00422FFB /* Build configuration list for PBXNativeTarget "HwS Project 2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				AEABF93223BEB9E0002255CF /* Debug */,
-				AEABF93323BEB9E0002255CF /* Release */,
+				AE70FD5223BF9AFD00422FFB /* Debug */,
+				AE70FD5323BF9AFD00422FFB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = AEABF91523BEB9DE002255CF /* Project object */;
+	rootObject = AE70FD3523BF9AFB00422FFB /* Project object */;
 }
