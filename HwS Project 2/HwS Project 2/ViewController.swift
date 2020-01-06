@@ -28,6 +28,8 @@ class ViewController: UIViewController {
             button?.layer.borderWidth = 1
             button?.layer.borderColor = UIColor.lightGray.cgColor
         }
+        
+        navigationItem.rightBarButtonItem = UIBarButtonItem(barButtonSystemItem: .pause, target: self, action: #selector(showScore))
 
         askQuestion()
     }
@@ -40,7 +42,7 @@ class ViewController: UIViewController {
         button2.setImage(UIImage(named: countries[1]), for: .normal)
         button3.setImage(UIImage(named: countries[2]), for: .normal)
         
-        title = "Score: \(score)  |  Next up: \(countries[correctAnswer].uppercased())"
+        title = "Next up: \(countries[correctAnswer].uppercased())"
         questionsAsked += 1
     }
     
@@ -75,6 +77,12 @@ class ViewController: UIViewController {
         questionsAsked = 0
         score = 0
         askQuestion()
+    }
+    
+    @objc func showScore() {
+        let alert = UIAlertController(title: "\(score)", message: "This is your current score", preferredStyle: .alert)
+        alert.addAction(UIAlertAction(title: "Close", style: .cancel, handler: nil))
+        present(alert, animated: true)
     }
     
 }
