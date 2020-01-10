@@ -24,10 +24,9 @@ class ViewController: UITableViewController {
         
         for item in items {
             if item.hasPrefix("nssl") {
-                print(pictures.append(item))
+                pictures.append(item)
             }
         }
-        print(pictures)
     }
     
     override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
